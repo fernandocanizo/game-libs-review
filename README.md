@@ -51,6 +51,10 @@ I tried the scaffolder and the code generated looked free of this, but they have
 
 This requires further inspection, as maybe there is more than one way to program using Pixijs.
 
+**Update:** ok, the "Creation Template" is more suited to the kind of games I'd like to make, and it's true that there's a classic OOP approach for some parts of the library. But one could use factory functions and other mechanisms to hide those implementation details and have a very narrow surface dealing with binding `this`.
+
+So maybe it's usable for me after all, but I will try KaPlay first.
+
 ### Kaplayjs ✅
 
 At first sight it looks like a nice library to start learning how to make games. Has some assets incorporated, so you can start right away without needed to hunt for graphics for your first game.
